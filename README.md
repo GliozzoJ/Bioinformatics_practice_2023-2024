@@ -33,6 +33,6 @@ You can consult the [timetables online](https://easystaff.divsi.unimi.it/Portale
 :movie_camera: **Recording of lessons**: lessons will not be recorded, but the R notebooks of the [first](https://github.com/GliozzoJ/Bioinformatics_practice_2023-2024/blob/main/practice1_SSL.Rmd) and [second](https://github.com/GliozzoJ/Bioinformatics_practice_2023-2024/blob/main/practice2_clustering.Rmd) lessons contain both executable code and theory about the considered topics. 
 If you need to skip a lesson, you can find all the material in the notebooks and you can ask questions during the next lesson (if something is not clear :grimacing: ).
 
-:bar_chart: **Final Exam**: information about the project exam are available in the PDF file "exam_information.pdf" present in this repository ([link here](https://github.com/GliozzoJBioinformatics_practice_2023-2024/blob/main/exam_information.pdf)).
+:bar_chart: **Final Exam**: information about the project exam are available in the PDF file "exam_information.pdf" present in this repository ([link here](https://github.com/GliozzoJ/Bioinformatics_practice_2023-2024/blob/main/exam_information.pdf)).
 
 :mailbox: **Contacts**: Students can contact me using my University e-mail (jessica.gliozzo@unimi.it).
