@@ -8,7 +8,7 @@ This repository contains the material for the practical part of the course Bioin
 All the lessons are prepared using R Notebooks, which are R markdown documents having blocks of code that can be executed.
 For more information about R Notebooks: [read this](https://bookdown.org/yihui/rmarkdown/notebook.html).
 
-To use notebooks, it is necessary to have installed R and Rstudio. All code was tested using R version 4.2.3 (2023-03-15) -- "Shortstop Beagle".
+To use notebooks, it is necessary to have installed R and Rstudio. All code was tested using R version 4.3.2 (2023-10-31) -- "Eye Holes".
 Once the installation is performed, you can open notebooks using Rstudio. Both R markdown files (.Rmd) and html notebook (.nb.html) can run code in Rstudio, 
 however html notebooks can be also viewed on your browser.
 

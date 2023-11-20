@@ -20,7 +20,7 @@ that have similar clinical and/or molecular characteristics. Finding these
 groups of individuals may help to better predict their prognosis (i.e. 
 patient's future health status) and better define the therapy that is more 
 appropriate for the considered individual. This is an integral part of what is
-known as "personalized medicine", i.e. the effort to tailor medicine taking into 
+known as "precision medicine", i.e. the effort to tailor medicine taking into 
 account genomics, environmental and lifestyle variables describing people. Moreover,
 the detection of homogeneous groups of patients supported by molecular data can be
 exploited to pinpoint causal biological pathways^[A pathway can be defined as a series of interactions among molecules in a cell that lead to a specific product or a change

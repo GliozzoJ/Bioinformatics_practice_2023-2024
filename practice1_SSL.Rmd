@@ -41,7 +41,7 @@ install.packages("caret");
 install.packages("ROCR");
 ```
 
-Now we can load the packages:
+Now we can load all the packages:
 ```{r message=FALSE, warning=FALSE}
 library("golubEsets");
 library("genefilter");
